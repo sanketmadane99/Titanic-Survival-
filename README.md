@@ -27,3 +27,9 @@ This project aims to analyze the factors that influenced the survival of passeng
 - **Model Evaluation:** Evaluate model performance using metrics like accuracy, precision, 
   recall, and F1-score.
   
+## Key Findings
+**1.Missing Data:** The Cabin column has a significant amount of missing values, which requires careful handling. The Age column also has some missing entries that need to be imputed.
+
+**2.Survival Rates:** The number of passengers who did not survive is greater than those who survived.
+
+**3.Gender Disparity:** Female passengers had a much higher survival rate compared to male passengers.
