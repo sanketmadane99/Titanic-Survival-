@@ -33,3 +33,4 @@ This project aims to analyze the factors that influenced the survival of passeng
 **2.Survival Rates:** The number of passengers who did not survive is greater than those who survived.
 
 **3.Gender Disparity:** Female passengers had a much higher survival rate compared to male passengers.
+
